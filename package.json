@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-faas-test",
+  "version": "0.0.1",
+  "description": "Example function for Suse Cloud Applicaiton nodejs-faas buildpack",
+  "author": "andrew.gracey@suse.com",
+  "license": "ISC",
+  "engines": {
+    "node": "12.5.0"
+  },
+  "dependencies": {}
+}
